@@ -1,0 +1,115 @@
+#popup{
+    width: 450px;
+    height: 550px;
+    position: absolute;
+    /* border: 2px solid red; */
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 10x;
+    opacity:7;
+    
+    background-color: white
+
+    
+}
+.get{
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 160px;
+    color: rgb(51,51,51);
+    font-size: large;
+    font-weight: bolder
+    
+}
+
+#display {
+    display: flex;
+    width: 100%;
+}
+.get{
+    padding-top: 10px;
+}
+.cross{
+    margin-left: 150px;
+    margin-top: 10px;
+    color: rgb(116,116,116);
+    padding-top: 8px;
+}
+
+
+#google {
+    width: 80%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid rgb(153,153,153)
+    
+    
+    
+    
+}
+.google1{
+    color: rgb(91,91,91);
+    /* font-size: large; */
+    font-weight: bold;
+    
+}
+.logo{
+    margin-left: 30px;
+    margin-right: 80px;
+    
+
+}
+#centre > p{
+    color: rgb(122,122,122);
+    align-items: center;
+    /* margin-top: 10px; */
+    padding-top: 25px;
+    margin-left: 200px;
+}
+#last{
+    width: 90%;
+    display: flex;
+    padding-top: 20px;
+    
+
+}
+
+.india{
+    font-size: large;
+    /* font-weight: bold; */
+    color: rgb(0,0,0);
+    margin-left: 42px;
+    margin-right: 10px;
+    
+}
+
+.simple{
+    /* margin-left: 80px; */
+    /* padding-top: 20px; */
+   color: rgb(153,153,153);
+   font-size: large;
+   padding-bottom: 5px;
+   border-bottom-style: solid;
+   border-bottom-width: 1px;
+   width: fit-content;
+   
+}
+
+#abcd{
+    width: 100%;
+    color: rgb(102,102,102);
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+    margin-left: 70px;
+    font-size: smaller;
+}
+
+.b{
+    text-decoration: underline;
+}
